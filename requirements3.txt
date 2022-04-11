@@ -1,0 +1,7 @@
+# Python requirements file
+# Run `pip install -r requirements3.txt` to install them.
+
+psutil >= 5.8.0
+tkinterx >= 0.0.9
+tkfilebrowser >= 2.3.2
+Pillow >= 8.2.0
